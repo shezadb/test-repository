@@ -64,7 +64,6 @@ C:\Users\bshah\source\repos\ProductionTargets\bin\Release\netcoreapp3.1\Microsof
 C:\Users\bshah\source\repos\ProductionTargets\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
 C:\Users\bshah\source\repos\ProductionTargets\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
 C:\Users\bshah\source\repos\ProductionTargets\obj\Release\netcoreapp3.1\ProductionTargets.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\bshah\source\repos\ProductionTargets\bin\Release\netcoreapp3.1\ProductionTargets.StaticWebAssets.xml
 C:\Users\bshah\source\repos\ProductionTargets\obj\Release\netcoreapp3.1\staticwebassets\ProductionTargets.StaticWebAssets.Pack.cache
 C:\Users\bshah\source\repos\ProductionTargets\obj\Release\netcoreapp3.1\staticwebassets\msbuild.ProductionTargets.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\bshah\source\repos\ProductionTargets\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.ProductionTargets.props

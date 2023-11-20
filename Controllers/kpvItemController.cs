@@ -87,7 +87,7 @@ namespace ProductionTargets.Controllers
         public async Task<bool> Delete(int id)
         {
             var item = await _dbContext.kpvItems.FirstOrDefaultAsync(item => item.id == id);
-        //    Console.WriteLine(item);
+            Console.WriteLine(item);
             _dbContext.kpvItems.Remove(item);
             var result = await _dbContext.SaveChangesAsync();
 
